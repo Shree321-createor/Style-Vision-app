@@ -1,0 +1,5 @@
+image_name,expected_garment_type
+dress.jpg,Dress
+jacket.jpg,Jacket
+shirt.jpg,Shirt
+hoodie.jpg,Hoodie
